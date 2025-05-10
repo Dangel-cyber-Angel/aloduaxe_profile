@@ -628,6 +628,18 @@ svg {
   width: 125px;
 }
 
+.ti-instagram{
+  color: black;
+}
+
+.ig{
+  padding: 8px;
+}
+
+.ti-instagram:hover{
+  opacity: 0.8;
+}
+
 @media (max-width: 1000px) {
   .profile__perfil {
     width: auto;
